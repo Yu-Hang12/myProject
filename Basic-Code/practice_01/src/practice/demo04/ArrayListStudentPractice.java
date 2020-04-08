@@ -30,7 +30,6 @@ public class ArrayListStudentPractice {
         }
         System.out.println("======================================");
         //打印学生信息
-        //输入的学生信息为：
         System.out.println("输入的学生信息为：");
         for (int i = 0; i < studentList.size(); i++) {
             System.out.println("第" + (i + 1) + "名学生姓名是：" + studentList.get(i).getName());

@@ -28,7 +28,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.ArrayListStudentPractice">
+  <component name="RunManager" selected="Application.StringMethod">
     <configuration name="ArrayListAndRandom_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.demo04.ArrayListAndRandom_Practice" />
       <module name="practice_01" />
@@ -42,8 +42,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.demo04.ArrayListDemo" />
+    <configuration name="ArrayListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.demo04.ArrayListPractice" />
       <module name="practice_01" />
       <extension name="coverage">
         <pattern>
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.demo03.RandDemo" />
+    <configuration name="StringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.demo05.StringMethod" />
       <module name="practice_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.demo03.*" />
+          <option name="PATTERN" value="practice.demo05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SanDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.demo03.SanDemo" />
+    <configuration name="StringPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.demo05.StringPractice" />
       <module name="practice_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.demo03.*" />
+          <option name="PATTERN" value="practice.demo05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringMethod" />
+        <item itemvalue="Application.StringPractice" />
+        <item itemvalue="Application.ArrayListPractice" />
         <item itemvalue="Application.ArrayListStudentPractice" />
         <item itemvalue="Application.ArrayListAndRandom_Practice" />
-        <item itemvalue="Application.ArrayListDemo" />
-        <item itemvalue="Application.RandDemo" />
-        <item itemvalue="Application.SanDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -130,22 +130,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="681" y="357" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1585660949184" />
-    <state width="1877" height="208" key="GridCell.Tab.0.bottom" timestamp="1586144108455">
+    <state width="1877" height="208" key="GridCell.Tab.0.bottom" timestamp="1586351023598">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586144108455" />
-    <state width="1877" height="208" key="GridCell.Tab.0.center" timestamp="1586144108455">
+    <state width="1877" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586351023598" />
+    <state width="1877" height="208" key="GridCell.Tab.0.center" timestamp="1586351023598">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="208" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586144108455" />
-    <state width="1877" height="208" key="GridCell.Tab.0.left" timestamp="1586144108455">
+    <state width="1877" height="208" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586351023598" />
+    <state width="1877" height="208" key="GridCell.Tab.0.left" timestamp="1586351023598">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="208" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586144108455" />
-    <state width="1877" height="208" key="GridCell.Tab.0.right" timestamp="1586144108455">
+    <state width="1877" height="208" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586351023598" />
+    <state width="1877" height="208" key="GridCell.Tab.0.right" timestamp="1586351023598">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="208" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586144108455" />
+    <state width="1877" height="208" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586351023598" />
     <state x="461" y="167" key="SettingsEditor" timestamp="1586140811622">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -162,9 +162,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1586140718239" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1586142529725">
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1586261459990">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1586142529725" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1586261459990" />
   </component>
 </project>
